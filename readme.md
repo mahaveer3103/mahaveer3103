@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keval Parekh</h1>
-<h3 align="center">I am a passionate developer having keen interest in solving problems and building new apps in Java language and Spring Boot framework!</h3>
+<h3 align="center">I am a passionate developer having keen interest in solving problems and building new apps in Java + Spring Boot framework!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahaveer3103&label=Profile%20views&color=0e75b6&style=flat" alt="mahaveer3103" /> </p>
 
